@@ -1,0 +1,1 @@
+export const URL = process.env.NODE_ENV === "production" ? "http://tt:3000" : "http://localhost:3000";
